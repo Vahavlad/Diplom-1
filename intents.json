@@ -1,0 +1,110 @@
+{
+  "ru": {
+    "wake_words": ["робот", "robot"],
+    "greeting": {
+      "keywords": ["привет", "здравствуй", "добрый день"],
+      "response": "Здравствуйте! Я робот-гид университета. Чем могу помочь?"
+    },
+    "where_library": {
+      "keywords": ["библиотек", "читальн"],
+      "response": "Библиотека находится в главном корпусе на втором этаже, левое крыло."
+    },
+    "where_cafeteria": {
+      "keywords": ["столов", "кафетер", "поесть", "еда"],
+      "response": "Столовая находится на первом этаже рядом с центральным входом."
+    },
+    "where_admissions": {
+      "keywords": ["приемн", "абитури", "поступ", "документ"],
+      "response": "Приемная комиссия находится в административном корпусе, кабинет 101."
+    },
+    "where_dean": {
+      "keywords": ["декан", "деканат"],
+      "response": "Деканат находится на третьем этаже учебного корпуса, кабинет 312."
+    },
+    "schedule": {
+      "keywords": ["расписан", "пары", "занят"],
+      "response": "Расписание занятий можно посмотреть на официальном сайте университета или на информационном стенде у деканата."
+    },
+    "help": {
+      "keywords": ["помощ", "что умеешь", "команды"],
+      "response": "Я могу подсказать, где библиотека, столовая, деканат и приемная комиссия, а также где посмотреть расписание."
+    },
+    "goodbye": {
+      "keywords": ["пока", "до свидан", "заверш", "выход"],
+      "response": "До свидания! Возвращаюсь к экрану выбора языка."
+    },
+    "fallback": "Извините, я не расслышал или не понял запрос. Повторите, пожалуйста."
+  },
+  "en": {
+    "wake_words": ["robot"],
+    "greeting": {
+      "keywords": ["hello", "hi", "good morning"],
+      "response": "Hello! I am the university guide robot. How can I help you?"
+    },
+    "where_library": {
+      "keywords": ["library", "reading room"],
+      "response": "The library is in the main building on the second floor, left wing."
+    },
+    "where_cafeteria": {
+      "keywords": ["cafeteria", "canteen", "food", "eat"],
+      "response": "The cafeteria is on the first floor near the main entrance."
+    },
+    "where_admissions": {
+      "keywords": ["admission", "apply", "documents"],
+      "response": "The admissions office is in the administrative building, room 101."
+    },
+    "where_dean": {
+      "keywords": ["dean", "dean office"],
+      "response": "The dean's office is on the third floor, room 312."
+    },
+    "schedule": {
+      "keywords": ["schedule", "classes", "timetable"],
+      "response": "You can check the class schedule on the university website or the board near the dean's office."
+    },
+    "help": {
+      "keywords": ["help", "what can you do", "commands"],
+      "response": "I can tell you where the library, cafeteria, dean's office, and admissions office are, and where to find class schedules."
+    },
+    "goodbye": {
+      "keywords": ["bye", "goodbye", "exit", "stop"],
+      "response": "Goodbye! Returning to language selection screen."
+    },
+    "fallback": "Sorry, I did not catch that. Please repeat."
+  },
+  "kk": {
+    "wake_words": ["робот", "robot"],
+    "greeting": {
+      "keywords": ["сәлем", "қайырлы"],
+      "response": "Сәлеметсіз бе! Мен университеттің робот-гидімін. Сізге қалай көмектесе аламын?"
+    },
+    "where_library": {
+      "keywords": ["кітапхана"],
+      "response": "Кітапхана бас ғимараттың екінші қабатында, сол жақ қанатта орналасқан."
+    },
+    "where_cafeteria": {
+      "keywords": ["асхана", "тамақ"],
+      "response": "Асхана бірінші қабатта, орталық кіреберістің жанында орналасқан."
+    },
+    "where_admissions": {
+      "keywords": ["қабылдау", "құжат", "түсу"],
+      "response": "Қабылдау комиссиясы әкімшілік ғимаратта, 101 кабинетте орналасқан."
+    },
+    "where_dean": {
+      "keywords": ["декан"],
+      "response": "Деканат оқу ғимаратының үшінші қабатында, 312 кабинетте орналасқан."
+    },
+    "schedule": {
+      "keywords": ["кесте", "сабақ"],
+      "response": "Сабақ кестесін университет сайтынан немесе деканат жанындағы тақтадан көре аласыз."
+    },
+    "help": {
+      "keywords": ["көмек", "не істейсің"],
+      "response": "Мен кітапхана, асхана, деканат, қабылдау комиссиясы туралы айтып бере аламын."
+    },
+    "goodbye": {
+      "keywords": ["сау бол", "аяқта", "шығу"],
+      "response": "Сау болыңыз! Тіл таңдау экранына қайта ораламын."
+    },
+    "fallback": "Кешіріңіз, түсінбедім. Қайталап айтыңызшы."
+  }
+}
